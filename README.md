@@ -1,13 +1,13 @@
 # Student-Result-Management
 
-^^^^^^^^^^^^^^^^^^^^^^^^ Introduction ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^ Introduction ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                             
 Student Result Management:This is a Graphical User Interface (GUI) application built using Python's tkinter module for the interface,Pillow for image processing, and SQLite3 for database management. 
 The application streamlines result management with features such as user registration, login, course addition, student management, and result display, providing an efficient and user-friendly experience.   
 
 
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^ Objectives ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^ Objectives ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                                     
 The Student Result Management System (SRMS) aims to provide an
 efficient, accurate, and user-friendly platform for managing student
 academic results. 
@@ -19,7 +19,7 @@ The primary objectives of the system are as follows:
     5. Time Efficiency
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^ Literature Review ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^ Literature Review ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                            
 After conducting a literature survey on student result management systems, it
 has become evident that there is a growing need for efficient and dependable
 systems to manage student data in educational institutions. 
@@ -45,7 +45,7 @@ and SQLite database, addresses these issues and provides an effective solution
 for managing student data in educational institutions.
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^ Software Requirement ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^ Software Requirement ^^^^^^^^^^^^^^^^^^^^^^^^^^^                            
 1 Python Tkinter Module: Tkinter is the standard library for
 creating Graphical User Interfaces (GUI) in Python. It is included by
 default in Python distributions.
